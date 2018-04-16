@@ -1,3 +1,3 @@
 ## Web-visualization (WeatherPy)
 
-Website link: https://weekysui.github.io/web_visualization/
+Website link: https://weekysui.github.io/weatherpy_web_visualization/
